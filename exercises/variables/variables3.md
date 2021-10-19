@@ -18,7 +18,7 @@
 >Welcome to watch mode! You can type 'help' to get an overview of the commands you can use here.
 
 ```rust
-//origin
+//Origin
 fn main() {
     let x = 3;
     println!("Number {}", x);
@@ -28,7 +28,7 @@ fn main() {
 ```
 
 ```rust
-//solution
+//Solution
 fn main() {
     let mut x = 3;
     println!("Number {}", x);

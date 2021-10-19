@@ -10,7 +10,7 @@
 >For more information about this error, try `rustc --explain E0381`.
 
 ```rust
-//origin
+//Origin
 fn main() {
     let x: i32;
     println!("Number {}", x);
@@ -18,7 +18,7 @@ fn main() {
 ```
 
 ```rust
-//resolution
+//Solution
 fn main() {
     let x: i32 = 414;
     println!("Number {}", x);

@@ -10,7 +10,7 @@
 >For more information about this error, try `rustc --explain E0282`.
 
 ```rust
-//origin
+//Origin
 fn main() {
     let x;
     if x == 10 {
@@ -22,7 +22,7 @@ fn main() {
 ```
 
 ```rust
-//solution
+//Solution
 fn main() {
     let x= 5;
     if x == 10 {
