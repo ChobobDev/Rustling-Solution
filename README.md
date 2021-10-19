@@ -45,7 +45,7 @@ rustlings list
 
 | Exercies          | Progress  | Code                                                                                          |
 | :---------------: | :-------: | :-------------------------------------------------------------------------------------------: |
-| `variables`       | 4/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/variables)       |
+| `variables`       | 5/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/variables)       |
 | `functions`       | 0/5       | [:link:](https://github.com/chobobdev/rustlings-solution/tree/master/exercises/functions)       |
 | `if`              | 0/2       | [:link:](https://github.com/chobobdev/rustlings-solution/tree/master/exercises/if)              |
 | `quiz1`           | 0/1       | [:link:](https://github.com/chobobdev/rustlings-solution/tree/master/exercises/quiz1.rs)        |
