@@ -2,5 +2,5 @@
 ## Progress
 | Exercies          | date  | Code |
 | :---------------: | :-------: | :---------: |
-| variable1.rs | 18/10/2021    | [:link:](./variable1.md) |
-| variable2.rs | 18/10/2021    | [:link:](./variable2.md) |
+| variables1.rs | 18/10/2021    | [:link:](./variables1.md) |
+| variables2.rs | 18/10/2021    | [:link:](./variables2.md) |
