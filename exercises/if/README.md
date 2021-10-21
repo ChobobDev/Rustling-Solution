@@ -6,3 +6,7 @@
 
 - [Control Flow - if expressions](https://doc.rust-lang.org/book/ch03-05-control-flow.html#if-expressions)
 
+| Exercies          | date  | Code |
+| :---------------: | :-------: | :---------: |
+| if1.rs | 20/10/2021    | [:link:](./if1.md) |
+| if2.rs | 21/10/2021    | [:link:](./if2.md) |

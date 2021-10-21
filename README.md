@@ -47,7 +47,7 @@ rustlings list
 | :---------------: | :-------: | :-------------------------------------------------------------------------------------------: |
 | `variables`       | 6/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/variables)       |
 | `functions`       | 5/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/functions)       |
-| `if`              | 0/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/if)              |
+| `if`              | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/if)              |
 | `quiz1`           | 0/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz1.rs)        |
 | `move_semantics`  | 0/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/move_semantics)  |
 | `primitive_types` | 0/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/primitive_types) |
