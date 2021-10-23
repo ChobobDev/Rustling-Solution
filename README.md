@@ -49,7 +49,7 @@ rustlings list
 | `functions`       | 5/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/functions)       |
 | `if`              | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/if)              |
 | `quiz1`           | 1/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz1.rs)        |
-| `move_semantics`  | 1/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/move_semantics)  |
+| `move_semantics`  | 2/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/move_semantics)  |
 | `primitive_types` | 0/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/primitive_types) |
 | `structs`         | 0/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/structs)         |
 | `enums`           | 0/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/enums)           |
