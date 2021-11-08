@@ -13,3 +13,4 @@ Useful in combination with enums is Rust's "pattern matching" facility, which ma
 | Exercies          | date  | Code |
 | :---------------: | :-------: | :---------: |
 | enums1.rs | 05/11/2021    | [:link:](./enums1.md) |
+| enums2.rs | 08/11/2021    | [:link:](./enums2.md) |
