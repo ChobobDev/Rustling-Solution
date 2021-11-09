@@ -52,7 +52,7 @@ rustlings list
 | `move_semantics`  | 5/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/move_semantics)  |
 | `primitive_types` | 6/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/primitive_types) |
 | `structs`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/structs)         |
-| `enums`           | 2/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/enums)           |
+| `enums`           | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/enums)           |
 | `modules`         | 0/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/modules)         |
 | `collections`     | 0/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
 | `strings`         | 0/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
