@@ -9,4 +9,5 @@ In this section we'll give you an introduction to Rust's module system.
 ## Progress
 | Exercies          | date  | Code |
 | :---------------: | :-------: | :---------: |
-| enums1.rs | 05/11/2021    | [:link:](./enums1.md) |
+| modules1.rs | 11/11/2021    | [:link:](./moules1.md) |
+| modules2.rs | 12/11/2021    | [:link:](./moules2.md) |
