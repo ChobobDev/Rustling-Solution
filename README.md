@@ -53,8 +53,8 @@ rustlings list
 | `primitive_types` | 6/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/primitive_types) |
 | `structs`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/structs)         |
 | `enums`           | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/enums)           |
-| `modules`         | 2/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/modules)         |
-| `collections`     | 0/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
+| `modules`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/modules)         |
+| `collections`     | 1/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
 | `strings`         | 0/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
 
 <div align="center">
