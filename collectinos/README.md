@@ -25,4 +25,5 @@ structures that are used very often in Rust programs:
 ## Progress
 | Exercies          | date  | Code |
 | :---------------: | :-------: | :---------: |
-| vec1.rs | 11/11/2021    | [:link:](./vec1.md) |
+| vec1.rs | 14/11/2021    | [:link:](./vec1.md) |
+| vec2.rs | 15/11/2021    | [:link:](./vec2.md) |
