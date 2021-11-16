@@ -27,3 +27,4 @@ structures that are used very often in Rust programs:
 | :---------------: | :-------: | :---------: |
 | vec1.rs | 14/11/2021    | [:link:](./vec1.md) |
 | vec2.rs | 15/11/2021    | [:link:](./vec2.md) |
+| hashmap1.rs | 16/11/2021    | [:link:](./hashmap1.md) |
