@@ -55,7 +55,7 @@ rustlings list
 | `enums`           | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/enums)           |
 | `modules`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/modules)         |
 | `collections`     | 4/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
-| `strings`         | 1/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
+| `strings`         | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
 
 <div align="center">
 

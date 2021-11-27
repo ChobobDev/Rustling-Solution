@@ -11,3 +11,4 @@ to identify and create them, as well as use them.
 | Exercies          | date  | Code |
 | :---------------: | :-------: | :---------: |
 | strings1.rs | 26/11/2021    | [:link:](./strings1.md) |
+| strings2.rs | 27/11/2021    | [:link:](./strings2.md) |
