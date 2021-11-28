@@ -48,7 +48,7 @@ rustlings list
 | `variables`       | 6/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/variables)       |
 | `functions`       | 5/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/functions)       |
 | `if`              | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/if)              |
-| `quiz1`           | 1/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz1.rs)        |
+| `quiz1`           | 1/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz1.md)        |
 | `move_semantics`  | 5/5       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/move_semantics)  |
 | `primitive_types` | 6/6       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/primitive_types) |
 | `structs`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/structs)         |
@@ -56,6 +56,7 @@ rustlings list
 | `modules`         | 3/3       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/modules)         |
 | `collections`     | 4/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
 | `strings`         | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
+| `quiz2`           | 1/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz2.md)        |
 
 <div align="center">
 
