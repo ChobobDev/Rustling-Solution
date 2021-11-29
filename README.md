@@ -57,6 +57,7 @@ rustlings list
 | `collections`     | 4/4       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/collections)     |
 | `strings`         | 2/2       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/strings)         |
 | `quiz2`           | 1/1       | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/quiz2.md)        |
+| `error_handling`           | 1/6      | [:link:](https://github.com/chobobdev/Rustling-Solution/tree/master/exercises/error_handling)        |
 
 <div align="center">
 
